@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "ABCd",
+      "address": "Nam Định",
+      "numberPhone": 837321268,
+      "status": 0
+    },
+    {
+      "name": "fpt",
+      "address": "nam dinh",
+      "numberPhone": "123456789",
+      "status": "1",
+      "id": 3
+    }
+  ]
+}
